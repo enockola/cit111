@@ -15,6 +15,8 @@ USE magazine;
 --    After you have that date, then include the format function 
 --    to change all dates to the format of: 09 01, 23.
 
+USE bike;
+
 -- 4. We need a list of all the products without the product name 
 --    at the beginning of the product_name string. 
 --    Order your results by product_id 
